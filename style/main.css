@@ -1,0 +1,138 @@
+header, footer {
+    background-color: #d9d0d0;
+    width: 100%;
+    height: 200px;
+}
+
+.pic {
+    width: 350px;
+    height: 350px;
+}
+
+#cel1 {
+    background-color: #ff0000;
+    width: 400px;
+    height: 400px;
+}
+
+#cel2 {
+    background-color: #de7c7c;
+    width: 400px;
+    height: 400px;
+}
+
+#cel3 {
+    background-color: #a10099;
+    width: 400px;
+    height: 400px;
+}
+
+#cel4 {
+    background-color: #d182cd;
+    width: 400px;
+    height: 400px;
+}
+
+#cel5 {
+    background-color: #088a0a;
+    width: 400px;
+    height: 400px;
+}
+
+#cel6 {
+    background-color: #b5f5bd;
+    width: 400px;
+    height: 400px;
+}
+
+#cel7 {
+    background-color: #f59dca;
+    width: 400px;
+    height: 400px;
+}
+
+#cel8 {
+    background-color: #ffd4ea;
+    width: 400px;
+    height: 400px;
+}
+
+#cel9 {
+    background-color: #1442d9;
+    width: 400px;
+    height: 400px;
+}
+
+#cel10 {
+    background-color: #a7c0e8;
+    width: 400px;
+    height: 400px;
+}
+
+#cel11 {
+    background-color: #9e684f;
+    width: 400px;
+    height: 400px;
+}
+
+#cel12 {
+    background-color: #f0bba3;
+    width: 400px;
+    height: 400px;
+}
+
+#cel13 {
+    background-color: #d5d90f;
+    width: 400px;
+    height: 400px;
+}
+
+#cel14 {
+    background-color: #fdffa3;
+    width: 400px;
+    height: 400px;
+}
+
+#cel15 {
+    background-color: #ed9600;
+    width: 400px;
+    height: 400px;
+}
+
+#cel16 {
+    background-color: #fcc777;
+    width: 400px;
+    height: 400px;
+}
+
+#kleur1 {
+    background-color: #bfbcbb;
+}
+
+#kleur2 {
+    background-color: #225dc9;
+}
+
+#kleur3 {
+    background-color: #e0891d;
+}
+
+#kleur4 {
+    background-color: #12de34;
+}
+
+#kleur5 {
+    background-color: #f70ce0;
+}
+
+#kleur6 {
+    background-color: #fa2e1b;
+}
+
+#kleur7 {
+    background-color: #f6fa11;
+}
+
+#kleur8 {
+    background-color: #b3f707;
+}
